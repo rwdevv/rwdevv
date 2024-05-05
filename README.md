@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ruan, I'm a web developer and programmer, from Brazil.</h2>
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="#">Ruan Luiz</a></b>
+        </samp>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruannlz&label=Profile%20views&color=0e75b6&style=flat" alt="ruannlz" /> </p>
 
