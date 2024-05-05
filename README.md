@@ -3,9 +3,15 @@
                 <b><a target="_blank" href="#">Ruan Luiz</a></b>
         </samp>
 </h3>
-<br>
-    「 I'm a web development student and I live in <b>Brazil</b> 」
+
+<p align="center"> 
+  <samp>
     <br>
+    「 I'm a web development student and I live in<b>Brazil</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruannlz&label=Profile%20views&color=0e75b6&style=flat" alt="ruannlz" /> </p>
