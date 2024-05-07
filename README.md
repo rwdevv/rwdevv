@@ -34,10 +34,13 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rwdevv&theme=algolia" </p>
+<a href="https://github.com/rwdevv/rwdevv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rwdevv&repo=rwdevv&theme=algolia&show_owner=true" />
+</a>
+<a href="https://github.com/rwdevv/rwdevv)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwdevv" />
+</a>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwdevvv&theme=algolia&show_owner=true" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rwdevv&repo=rwdevv&theme=algolia&show_owner=true)](https://github.com/rwdevv/rwdevv)
 
 
