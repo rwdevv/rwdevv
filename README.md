@@ -36,7 +36,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rwdevv&theme=algolia&show_icons=true" </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwdevv" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwdevvv&theme=algolia" /></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rwdevv&repo=rwdevv&theme=algolia&show_owner=true)](https://github.com/rwdevv/rwdevv)
 
