@@ -34,7 +34,7 @@
 
 ###
 <a href="https://github.com/rwdevv/rwdevv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?usename=rwdevv&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwdevv&theme=algolia&show_icons=true" />
 </a>
 <a href="https://github.com/rwdevv/rwdevv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rwdevv&repo=rwdevv&theme=algolia&show_owner=true" />
