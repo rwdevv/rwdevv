@@ -36,7 +36,7 @@
 <a href="https://github.com/rwdevv/rwdevv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwdevv&theme=algolia&show_icons=true" />
 </a>
-<a href="https://github.com/rwdevv/rwdevv)">
+<a href="https://github.com/rwdevv/rwdevv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwdevv" />
 </a>
 <a href="https://github.com/rwdevv/rwdevv)">
