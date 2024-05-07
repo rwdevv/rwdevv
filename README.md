@@ -34,7 +34,7 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rwdevv&theme=algolia&show_icons=true" </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rwdevv&theme=algolia" </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwdevvv&theme=algolia" /></p>
 
