@@ -34,7 +34,8 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username= rwdevv&show_icons=true&locale=en&layout=compact" alt="rwdevv" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rwdevv&theme=algolia&show_icons=true" </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api? nome de usuário=rwdevv&show_icons=true&locale=en" alt="rwdevv" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api? nome de usuário=rwdevv&show_icons=true&locale=en" /></p>
 
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /</p>>
