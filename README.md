@@ -38,4 +38,6 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwdevv" /></p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=rwdevv)](https://github.com/rwdevv/rwdevv)
+
 
