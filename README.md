@@ -38,4 +38,5 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwdevv" /></p>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rwdevv&repo=github-readme-stats" /</p>>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rwdevv&repo=github-readme-stats)](https://github.com/rwdevv/github-readme-stats)
+
