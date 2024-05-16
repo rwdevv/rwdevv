@@ -7,7 +7,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I'm a web development student and I live in <b>Brazil</b> 」
+    I'm a web development student and I live in <b>Brazil</b>
     <br>
     <br>
   </samp>
