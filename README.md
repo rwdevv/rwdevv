@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <samp>
-          > "I'm a <strong>front-end developer[^1]</strong> who loves learning new things and applying them to something. I'm also curious (positively!), creative, focused and I'd really like to work on something else!"
+          > "I'm a positively focused<strong>front end web developer</strong>, I'm always looking to learn new things and apply my knowledge to my personal projects
 > 
           
   </samp>
