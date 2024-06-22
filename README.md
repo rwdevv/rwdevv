@@ -48,5 +48,5 @@
 
 
 
-
+[^1]: A front-end developer builds the front-end portion of websites and web applications—the part users see and interact with. A front-end developer creates websites and applications using web languages such as HTML, CSS, JavaScript and WebAssembly that allow users to access and interact with the site or app.
 
