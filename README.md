@@ -13,6 +13,13 @@
   </samp>
 </p>
 
+<h2 align="center">Language</h2>
+<div align="center">
+  
+[![](https://img.shields.io/badge/ENGLISH-active-cyan.svg)](#)
+[![](https://img.shields.io/badge/PORTUGUESE-inactive-white.svg)](./dist/pt-br/README.md)
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rwdevv&label=Profile%20views&color=0e75b6&style=flat" alt="rwdevv" /> </p>
 
