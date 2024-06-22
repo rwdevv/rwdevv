@@ -6,10 +6,9 @@
 
 <p align="center"> 
   <samp>
-    <br>
-    I'm a web development student and I live in <b>Brazil</b>
-    <br>
-    <br>
+          > "I'm a <strong>front-end developer[^1]</strong> who loves learning new things and applying them to something. I'm also curious (positively!), creative, focused and I'd really like to work on something else!"
+> 
+          
   </samp>
 </p>
 
