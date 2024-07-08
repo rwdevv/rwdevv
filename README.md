@@ -1,4 +1,5 @@
-![Imagem do WhatsApp de 2024-07-08 à(s) 09 55 17_3e08b7c6](https://github.com/rwdevv/rwdevv/assets/168967080/f0036d98-eeab-4dd1-b59f-cb0b900c3037)
+![Imagem do WhatsApp de 2024-07-08 à(s) 09 55 17_3e08b7c6](https://github.com/rwdevv/rwdevv/assets/168967080/4ff3498b-770c-430a-8c9d-b51b5acfa676)
+
 
 <h2>about me 💻</h2>
 
