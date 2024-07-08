@@ -45,7 +45,7 @@ const aboutMe = {
 
 ###
 <a href="https://github.com/rwdevv/rwdevv">
-  <img align="center" src="https://streak-stats.demolab.com?user=rwdevv&theme=graywhite&locale=pt_BR&mode=weekly" alt="GitHub Streak"/a>/>
+  <img align="center" src="https://streak-stats.demolab.com?user=rwdevv&theme=graywhite&locale=pt_BR&mode=weekly" alt="GitHub Streak"/a>
 </a>
 
 
