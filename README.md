@@ -47,8 +47,7 @@ const aboutMe = {
 <a href="https://github.com/rwdevv/rwdevv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwdevv" />
 </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rwdevv&theme=graywhite_icons=true" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwdevv&label=Profile%20views&color=0e75b6&style=flat" alt="rwdevv" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rwdevv&label=Profile%20views&color=0e75b6&style=flat" alt="rwdevv" /> </p>
 
