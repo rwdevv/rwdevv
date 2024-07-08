@@ -43,8 +43,10 @@ const aboutMe = {
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-###
-<a href="https://github.com/rwdevv/rwdevv">
+<h2>github stats 📊</h2>
+<span align="left">
+
+   <a href="https://github.com/rwdevv/rwdevv">
   <img align="center" src="https://streak-stats.demolab.com?user=rwdevv&theme=graywhite&locale=pt_BR&mode=weekly" alt="GitHub Streak"/a>
 </a>
 
