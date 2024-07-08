@@ -26,7 +26,7 @@ const aboutMe = {
 <div align="center">
   
 [![](https://img.shields.io/badge/ENGLISH-active-cyan.svg)](#)
-[![](https://img.shields.io/badge/PORTUGUESE-inactive-white.svg)](./dist/pt-br/README.md)
+[![](https://img.shields.io/badge/PORTUGUESE-active-white.svg)](./dist/pt-br/README.md)
 </div>
 
 
