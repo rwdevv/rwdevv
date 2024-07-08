@@ -4,9 +4,9 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "she" | "her",
-   age: 27,
-   state: "Rio de Janeiro",
+   pronouns: "he" | "his",
+   age: 19,
+   statstate: "Paraíba",
    jobRole: "Senior Web Developer" || "Python programmer",
    technologiesIWorkedOn: ["HTML5", "CSS", "Python", "JavaScript", "Git"],
    challenge: "study hard to achieve my goals in programming and web development",
