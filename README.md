@@ -7,7 +7,7 @@ const aboutMe = {
    pronouns: "he" | "his",
    age: 19,
    statstate: "Paraíba",
-   jobRole: "Senior Web Developer" || "Python programmer",
+   jobRole: "Junior Web Developer" || "Python programmer",
    technologiesIWorkedOn: ["HTML5", "CSS", "Python", "JavaScript", "Git"],
    challenge: "study hard to achieve my goals in programming and web development",
    studying: ["PHP", "Swift", "Java", "C#", "Go", "Ruby", "C++, "SQL"],
