@@ -1,10 +1,19 @@
 ![Imagem do WhatsApp de 2024-07-08 à(s) 09 55 17_3e08b7c6](https://github.com/rwdevv/rwdevv/assets/168967080/f0036d98-eeab-4dd1-b59f-cb0b900c3037)
 
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#"> Ruan Luiz </a></b>
-        </samp>
-</h3>
+<h2>about me 💻</h2>
+
+```javascript
+const aboutMe = {
+   pronouns: "she" | "her",
+   age: 27,
+   state: "Rio de Janeiro",
+   jobRole: "Senior Web Developer" || "Python programmer",
+   technologiesIWorkedOn: ["HTML5", "CSS", "Python", "JavaScript", "Git"],
+   challenge: "study hard to achieve my goals in programming and web development",
+   studying: ["PHP", "Swift", "Java", "C#", "Go", "Ruby", "C++, "SQL"],
+   hobbies: ["Watch movies"", "Play games on PC", "Develop projects", "Study"]
+};
+```
 
 <p align="center"> 
   <samp>
