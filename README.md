@@ -29,9 +29,6 @@ const aboutMe = {
 </div>
 
 
-###
-
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2024/03/icegif.gif"  />
 
 ###
 
@@ -51,6 +48,10 @@ const aboutMe = {
 
 <h2>github stats 📊</h2>
 <span align="left">
+
+###
+
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2024/03/icegif.gif"  />
 
    <a href="https://github.com/rwdevv/rwdevv">
   <img align="center" src="https://streak-stats.demolab.com?user=rwdevv&theme=graywhite&locale=pt_BR&mode=weekly" alt="GitHub Streak"/a>
