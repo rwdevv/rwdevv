@@ -1,7 +1,6 @@
 <p align="center">
-
-   ![Imagem do WhatsApp de 2024-07-08 à(s) 09 55 17_30d9d0a5](https://github.com/user-attachments/assets/da5bbe54-49a5-4e19-a257-7bc431fcf2f6)
-
+   
+   ![image](https://github.com/user-attachments/assets/78a5317f-7edd-407e-961c-b0065ba6584b)
 
 </p> 
 
