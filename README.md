@@ -14,13 +14,12 @@ const aboutMe = {
 };
 ```
 
-<h2 align="center">Language</h2>
+<h2 align="center">Languages</h2>
 <div align="center">
   
 [![](https://img.shields.io/badge/ENGLISH-active-cyan.svg)](#)
 [![](https://img.shields.io/badge/PORTUGUESE-active-white.svg)](./dist/pt-br/README.md)
 </div>
-
 
 
 ###
@@ -39,17 +38,11 @@ const aboutMe = {
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h2>github stats 📊</h2>
-<span align="left">
 
 ###
 
 <img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2024/03/icegif.gif"  />
 
-   <a href="https://github.com/rwdevv/rwdevv">
-  <img align="center" src="https://streak-stats.demolab.com?user=rwdevv&theme=graywhite&locale=pt_BR&mode=weekly" alt="GitHub Streak"/a>
-</a>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwdevv&label=Profile%20views&color=0e75b6&style=flat" alt="rwdevv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwdevv&label=Profile%20views&color=0e75b6&style=flat" alt="rwdevv" /> 
+</p>
 
