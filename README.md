@@ -1,13 +1,3 @@
-<p align="center">
-   
-   ![image](https://github.com/user-attachments/assets/7a4f493e-527b-47bb-ac17-2d13b437f70b)
-
-
-
-
-</p> 
-
-
 
 <h2>about me 💻</h2>
 
